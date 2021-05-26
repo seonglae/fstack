@@ -1,4 +1,4 @@
-# VStack
+# WStack
 <p align="center"><img width="200"alt="wstack" src="images/logo.png"/></p>
 
 Frontend Developer VSCode Extension Pack
@@ -13,7 +13,7 @@ Frontend Developer VSCode Extension Pack
 
 - [**HTML Tools**]() - Auto Close, Complete, Rename Tag, SVG Preview,
 
-- [**Debug Tools**]() - Chrome Debugger
+- [**Other Tools**]() - Chrome Debugger, Web Color highlight
 
 
 # Other Stacks
