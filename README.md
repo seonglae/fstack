@@ -1,11 +1,19 @@
 # VStack
-<p align="center"><img width="200"alt="vstack" src="images/logo.png"/></p>
+<p align="center"><img width="200"alt="wstack" src="images/logo.png"/></p>
 
 Frontend Developer VSCode Extension Pack
 
 # Curated List
 
-- [**Extension**]() - Extension Description 
+- [**VSCode HTTP Client**]() - Rest Book, Rest Client
+
+- [**Web Usual Code Fomatter**]() - Prettier, Beautify, Stylelint
+  
+- [**JS Tools**]() - JSDoc Generator
+
+- [**HTML Tools**]() - Auto Close, Complete, Rename Tag, SVG Preview,
+
+- [**Debug Tools**]() - Chrome Debugger
 
 
 # Other Stacks
@@ -15,7 +23,7 @@ Frontend Developer VSCode Extension Pack
 
 - [**CStack**](https://marketplace.visualstudio.com/items?itemName=seonglae.cstack) - Cloud Native VSCode Extension Pack
 
-- [**FStack**](https://marketplace.visualstudio.com/items?itemName=seonglae.fstack) - Frontend Developer VSCode Extension Pack
+- [**WStack**](https://marketplace.visualstudio.com/items?itemName=seonglae.wstack) - Web Developer VSCode Extension Pack
 
 - [**EStack**](https://marketplace.visualstudio.com/items?itemName=seonglae.estack) - File Explorer VSCode Extension Pack
 

@@ -1,7 +1,7 @@
 {
-  "name": "fstack",
-  "displayName": "FStack",
-  "description": "Frontend Developer VSCode Extension Pack",
+  "name": "wstack",
+  "displayName": "WStack",
+  "description": "Web Developer VSCode Extension Pack",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.x.x"
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/seonglae/fstack"
+    "url": "https://github.com/seonglae/wstack"
   },
   "license": "MIT",
   "publisher": "seonglae",
@@ -24,22 +24,16 @@
     "geology"
   ],
   "extensionPack": [
-    "george-alisson.html-preview-vscode",
-    "SimonSiefke.html-preview",
-    "SimonSiefke.svg-preview",
-    "sysoev.language-stylus",
     "humao.rest-client",
-    "thisismanta.stylus-supremacy",
     "tanhakabir.rest-book",
     "esbenp.prettier-vscode",
     "HookyQR.beautify",
-    "auchenberg.vscode-browser-preview",
-    "akamud.vscode-javascript-snippet-pack",
-    "lllllllqw.jsdoc",
-    "formulahendry.auto-close-tag",
+    "stevencl.adddoccomments",
     "stylelint.vscode-stylelint",
+    "formulahendry.auto-close-tag",
     "formulahendry.auto-complete-tag",
     "formulahendry.auto-rename-tag",
-    "msjsdiag.debugger-for-chrome"
+    "msjsdiag.debugger-for-chrome",
+    "SimonSiefke.svg-preview"
   ]
 }
